@@ -1,1 +1,1 @@
-DROP TABLE TABLE1;
+DROP TABLE public."Table1";
